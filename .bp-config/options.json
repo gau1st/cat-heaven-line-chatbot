@@ -1,0 +1,4 @@
+{
+ "ADMIN_EMAIL": "gau_1st@yahoo.co.id",
+ "PHP_EXTENSIONS": ["mbstring", "mysqli", "mcrypt", "gd", "curl"]
+}
